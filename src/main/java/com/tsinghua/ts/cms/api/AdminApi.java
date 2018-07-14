@@ -20,6 +20,7 @@ public interface AdminApi {
 	public AdminForFindAdminResVo findAdmin(AdminForFindAdminReqVo reqVo);
 	
 	
+	
 
 	
 	
